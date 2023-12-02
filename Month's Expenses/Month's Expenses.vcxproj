@@ -143,6 +143,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\Month%27s Expenses\Month%27s Expenses\expenses.cpp" />
+    <ClCompile Include="..\..\Month%27s Expenses\Month%27s Expenses\Source.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Month%27s Expenses\Month%27s Expenses\expenses.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
